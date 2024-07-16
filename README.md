@@ -2,7 +2,7 @@
 
 Cheeze is a software that downloads videos or audio through YouTube links.
 
-(1) Download Cheeze.exe.
+(1) Download div/Cheeze.exe.
 
 (2) Run the program on your local computer.
 
